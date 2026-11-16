@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="App/ImplicateX.TinyCLR.Drivers.Adapter.Network.Enc28j60.App.csproj" Id="f65ce240-c284-4d34-b83a-b1ca2bedf2b0">
+    <Deploy />
+  </Project>
+  <Project Path="ImplicateX.TinyCLR.Drivers.Adapter.Network.Enc28j60.csproj" Id="5e143b55-5b02-4bf9-a7f4-42943983e2ad" />
+</Solution>
